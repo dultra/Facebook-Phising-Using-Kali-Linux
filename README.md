@@ -18,3 +18,10 @@
 
 5. **Ataque ativo**:
    - O SEToolkit gerou um site clonado onde estava a exata pagina de login que me devolvia email e senha inseridos
+
+
+
+![Screenshot_21](https://github.com/user-attachments/assets/5b1dfef9-7156-4bb5-b1af-cf5c56fb696e)
+
+
+![Screenshot_20](https://github.com/user-attachments/assets/89b1c398-df9a-46fa-b072-01b02c6c4925)
